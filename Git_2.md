@@ -7,3 +7,5 @@
 *Git-инструмент 
 
 Финиш! 
+
+![Alt text](image.png)
